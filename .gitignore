@@ -1,0 +1,9 @@
+
+*.pyc
+*.un~
+*.log
+*.out
+*.py~
+*.swp
+
+.idea/*
